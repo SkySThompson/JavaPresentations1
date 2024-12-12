@@ -13,7 +13,8 @@ body {
   #fff480 10px,
   #fbfbfb 20px
 );
-    color: #fff;
+    color: #000000;
+    padding: 40px;
   }
 
   .video-container {
